@@ -1,0 +1,9 @@
+name: FKBungee
+version : 1.0
+authour : Dragon
+main : fk.dragon.fkbungee.Main
+
+commands :
+  lobby:
+    description: Vous renvoie vers le lobby
+    permission: plugin.use
